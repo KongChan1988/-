@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DataDriven>
+    <yan>学海无涯苦作舟</yan>
+    <admin>管理员</admin>
+    <WuYa nick="无涯" age="18" sex="boy" address="xian"></WuYa>
+</DataDriven>
